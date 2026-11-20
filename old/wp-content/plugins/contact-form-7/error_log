@@ -1,0 +1,65 @@
+[25-Nov-2017 08:17:39 Etc/GMT] PHP Fatal error:  Call to undefined function plugin_basename() in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[01-Aug-2018 07:03:36 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[01-Feb-2019 21:44:39 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[27-Dec-2019 03:16:00 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[02-Jan-2021 06:46:11 UTC] PHP Fatal error:  Call to undefined function plugin_basename() in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[07-Sep-2021 18:21:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[01-Jun-2023 07:09:59 UTC] PHP Warning:  Use of undefined constant WPCF7_PLUGIN_DIR - assumed 'WPCF7_PLUGIN_DIR' (this will throw an Error in a future version of PHP) in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[01-Jun-2023 07:09:59 UTC] PHP Warning:  require_once(WPCF7_PLUGIN_DIR/includes/functions.php): failed to open stream: No such file or directory in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[01-Jun-2023 07:09:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'WPCF7_PLUGIN_DIR/includes/functions.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[01-Jun-2023 07:10:00 UTC] PHP Warning:  Use of undefined constant WPCF7_PLUGIN_DIR - assumed 'WPCF7_PLUGIN_DIR' (this will throw an Error in a future version of PHP) in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[01-Jun-2023 07:10:00 UTC] PHP Warning:  require_once(WPCF7_PLUGIN_DIR/includes/functions.php): failed to open stream: No such file or directory in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[01-Jun-2023 07:10:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'WPCF7_PLUGIN_DIR/includes/functions.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[01-Jun-2023 07:10:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[01-Jun-2023 07:10:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[23-Jun-2023 09:06:21 UTC] PHP Warning:  Use of undefined constant WPCF7_PLUGIN_DIR - assumed 'WPCF7_PLUGIN_DIR' (this will throw an Error in a future version of PHP) in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[23-Jun-2023 09:06:21 UTC] PHP Warning:  require_once(WPCF7_PLUGIN_DIR/includes/functions.php): failed to open stream: No such file or directory in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[23-Jun-2023 09:06:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'WPCF7_PLUGIN_DIR/includes/functions.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[23-Jun-2023 09:06:22 UTC] PHP Warning:  Use of undefined constant WPCF7_PLUGIN_DIR - assumed 'WPCF7_PLUGIN_DIR' (this will throw an Error in a future version of PHP) in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[23-Jun-2023 09:06:22 UTC] PHP Warning:  require_once(WPCF7_PLUGIN_DIR/includes/functions.php): failed to open stream: No such file or directory in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[23-Jun-2023 09:06:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'WPCF7_PLUGIN_DIR/includes/functions.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[23-Jun-2023 09:06:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[23-Jun-2023 09:06:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[26-Jun-2023 17:55:22 UTC] PHP Warning:  Use of undefined constant WPCF7_PLUGIN_DIR - assumed 'WPCF7_PLUGIN_DIR' (this will throw an Error in a future version of PHP) in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[26-Jun-2023 17:55:22 UTC] PHP Warning:  require_once(WPCF7_PLUGIN_DIR/includes/functions.php): failed to open stream: No such file or directory in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[26-Jun-2023 17:55:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'WPCF7_PLUGIN_DIR/includes/functions.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[26-Jun-2023 17:55:22 UTC] PHP Warning:  Use of undefined constant WPCF7_PLUGIN_DIR - assumed 'WPCF7_PLUGIN_DIR' (this will throw an Error in a future version of PHP) in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[26-Jun-2023 17:55:22 UTC] PHP Warning:  require_once(WPCF7_PLUGIN_DIR/includes/functions.php): failed to open stream: No such file or directory in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[26-Jun-2023 17:55:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'WPCF7_PLUGIN_DIR/includes/functions.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[26-Jun-2023 17:55:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[26-Jun-2023 17:55:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[01-Jul-2023 09:57:23 UTC] PHP Warning:  Use of undefined constant WPCF7_PLUGIN_DIR - assumed 'WPCF7_PLUGIN_DIR' (this will throw an Error in a future version of PHP) in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[01-Jul-2023 09:57:23 UTC] PHP Warning:  require_once(WPCF7_PLUGIN_DIR/includes/functions.php): failed to open stream: No such file or directory in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[01-Jul-2023 09:57:23 UTC] PHP Fatal error:  require_once(): Failed opening required 'WPCF7_PLUGIN_DIR/includes/functions.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[01-Jul-2023 09:57:28 UTC] PHP Warning:  Use of undefined constant WPCF7_PLUGIN_DIR - assumed 'WPCF7_PLUGIN_DIR' (this will throw an Error in a future version of PHP) in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[01-Jul-2023 09:57:28 UTC] PHP Warning:  require_once(WPCF7_PLUGIN_DIR/includes/functions.php): failed to open stream: No such file or directory in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[01-Jul-2023 09:57:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'WPCF7_PLUGIN_DIR/includes/functions.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[01-Jul-2023 09:57:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[01-Jul-2023 09:57:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/wwwictacademypun/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19

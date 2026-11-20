@@ -1,0 +1,4 @@
+[26-Oct-2018 01:24:51 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/wwwictacademypun/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 05:20:26 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/wwwictacademypun/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 09:37:01 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/wwwictacademypun/public_html/wp-content/themes/twentyfifteen/inc/customizer.php on line 83
+[26-Oct-2018 14:23:09 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/wwwictacademypun/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171
