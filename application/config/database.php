@@ -76,9 +76,9 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'wwwictac_dbu2024',
-	'password' => '_qXh_=Rnf$7w',
-	'database' => 'wwwictac_db2024',
+	'username' => 'xpnfrmgqum',
+	'password' => 'yAxd3dXzHc',
+	'database' => 'xpnfrmgqum',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

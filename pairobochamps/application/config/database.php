@@ -76,9 +76,9 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'wwwictac_robodb',
-	'password' => 'iG=v+-[o*lDV',
-	'database' => 'wwwictac_pairobochamps',
+	'username' => 'xpnfrmgqum',
+	'password' => 'yAxd3dXzHc',
+	'database' => 'xpnfrmgqum',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
